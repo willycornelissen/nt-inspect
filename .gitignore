@@ -1,0 +1,12 @@
+# Binaries
+bin/
+nt-inspect
+
+# Test coverage and profiles
+coverage.out
+*.test
+
+# Go workspace / temp files
+.cache/
+tmp/
+
